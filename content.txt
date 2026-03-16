@@ -1,1 +1,2 @@
 Initial content in clear-branch
+Changes in clear-branch
