@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Initial content in clear-branch
 Changes in clear-branch
+=======
+Initial content in cherry-branch
+Changes in cherry-branch
+>>>>>>> fc15f5b (Update content.txt in cherry-branch)
