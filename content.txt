@@ -1,1 +1,2 @@
 Initial content in cherry-branch
+Changes in cherry-branch
